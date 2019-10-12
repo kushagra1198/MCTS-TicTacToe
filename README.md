@@ -14,7 +14,7 @@ read this to understand the [working of mcts](https://github.com/kushagra1198/MC
 # The project
 So, this project is a python based code implementation of MCTS to solve two player tic-tac-toe. Player1 is X and Player2 is O.
 
-# Working of Code and sample
+# Working of code and sample
 So, the code working can be shown by the following examples:
 
 ![exmp](https://user-images.githubusercontent.com/43116010/66701529-a2eec380-ed1a-11e9-973a-13113d545ee1.PNG)
