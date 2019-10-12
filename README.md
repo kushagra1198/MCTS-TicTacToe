@@ -16,4 +16,4 @@ So, the code working can be shown by the following examples:
 
 ![exmp](https://user-images.githubusercontent.com/43116010/66701529-a2eec380-ed1a-11e9-973a-13113d545ee1.PNG)
 
-In this snippet, we have a 3 * 3 grid. The 0s represent empty spaces i.e the cells that are empty and a player can play their moves on them. Symbol -1 reresents the cell is occupied by player O while symbol 1 represents that cell is occupied by X. In the snippet the AI algorithm suggests move 3 which means row=1, col=1. Which is the most optimal move by player X to stay in the game without losing. 
+In this snippet, we have a 3 * 3 grid. The 0s represent empty spaces i.e the cells that are empty and a player can play their moves on them. Symbol -1 reresents the cell is occupied by player O while symbol 1 represents that cell is occupied by X. In the snippet the AI algorithm suggests move 3 which means row = 1 and column = 1. Which is the most optimal move by player X to stay in the game without losing. 
