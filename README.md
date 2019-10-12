@@ -14,3 +14,4 @@ reacd this to understant the [working of mcts](https://github.com/kushagra1198/M
 # Working of Code and samples
 So, the code working can be shown by the following examples:
 ![exmp](https://user-images.githubusercontent.com/43116010/66701529-a2eec380-ed1a-11e9-973a-13113d545ee1.PNG)
+In this snippet, we have a 3 * 3 grid. The 0s represent empty spaces i.e the cells that are empty and a player can play their moves on them. Symbol -1 reresents the cell is occupied by player O while symbol 1 represents that cell is occupied by X.   
