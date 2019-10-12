@@ -8,3 +8,5 @@ Monte Carlo tree search (MCTS) is a heuristic search algorithm for some kinds of
 For solving board games like tic-tac-toe, genrally algorithms like MinMax are used. This project is a way of trying out techniques to create a AI solver which can be used to play a AI vs Human or AI vs AI game.
 # How does MCTS work?
 <img src="https://i.stack.imgur.com/EieiQ.png">
+# Working of Code
+So, the code working can be shown by the following examples:
