@@ -11,7 +11,7 @@ For solving board games like tic-tac-toe, genrally algorithms like MinMax are us
 read this to understand the [working of mcts](https://github.com/kushagra1198/MCTS-TicTacToe/blob/master/MCTS_Kushagra_Notes.pdf).
 <img src="https://i.stack.imgur.com/EieiQ.png" alt="Logo">
 
-# Our project
+# The project
 So, this project is a python based code implementation of MCTS to solve two player tic-tac-toe. Player1 is X and Player2 is O.
 
 # Working of Code and sample
