@@ -1,7 +1,7 @@
 # MCTS-TicTacToe
 Monte Carlo Tree Search Algorithm based AI Tic Tac Toe Solver
 # About
-This project aims at devloping a AI game solver for board games. Since tic -tac-toe is a clasical example of board games. I try to implement the Monte Carlo Tree Search Algorithm.
+This project aims at devloping an AI game solver for board games. Since tic -tac-toe is a clasical example of board games. I try to implement the Monte Carlo Tree Search Algorithm.
 # Monte Carlo Tree Search Algorithm (MCTS)
 Monte Carlo tree search (MCTS) is a heuristic search algorithm for some kinds of decision processes, most notably those employed in game play. MCTS was introduced in 2006 for computer Go.
 # Why MCTS?
